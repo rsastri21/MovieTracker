@@ -1,0 +1,22 @@
+.movie-list {
+    color: #92cbdf;
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+}
+
+table, th, td {
+    color: #92cbdf;
+    background-color: #1a6985;
+    border: 1px solid black;
+}
+
+th {
+    padding: 8px;
+}
+
+td {
+    color: #bee0ec;
+    background-color: #2187ab;
+    padding: 8px;
+}
