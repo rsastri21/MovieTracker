@@ -1,0 +1,3 @@
+[submodule "movies/react-app"]
+	path = movies/react-app
+	url = https://github.com/rsastri21/MovieTracker.git
